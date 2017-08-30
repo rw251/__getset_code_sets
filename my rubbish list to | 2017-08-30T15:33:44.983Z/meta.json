@@ -1,0 +1,14 @@
+{
+  "includeTerms": [
+    "heart"
+  ],
+  "excludeTerms": [],
+  "terminology": "Readv2",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "my rubbish list to",
+  "description": "i'm only doing this to test the svae to github loader thingy...",
+  "createdOn": "2017-08-30T15:33:44.969Z"
+}
