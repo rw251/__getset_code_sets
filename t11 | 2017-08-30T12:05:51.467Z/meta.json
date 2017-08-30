@@ -1,0 +1,14 @@
+{
+  "includeTerms": [
+    "heart"
+  ],
+  "excludeTerms": [],
+  "terminology": "Readv2",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "t11",
+  "description": "t22",
+  "createdOn": "2017-08-30T12:05:51.452Z"
+}
