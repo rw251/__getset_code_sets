@@ -1,0 +1,14 @@
+{
+  "includeTerms": [
+    "heart"
+  ],
+  "excludeTerms": [],
+  "terminology": "Readv2",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "rubbish",
+  "description": "whoops",
+  "createdOn": "2017-08-30T14:54:26.423Z"
+}
