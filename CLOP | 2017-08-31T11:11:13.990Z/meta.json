@@ -1,6 +1,8 @@
 {
   "includeTerms": [
-    "clopidogrel"
+    "clopidogrel",
+    "grepid",
+    "plavix"
   ],
   "excludeTerms": [],
   "terminology": "Readv2",
@@ -9,6 +11,7 @@
     "email": "1234richardwilliams@gmail.com"
   },
   "name": "CLOP",
-  "description": "clopite clop",
-  "createdOn": "2017-08-31T11:11:13.983Z"
+  "description": "",
+  "message": "added brand names",
+  "createdOn": "2017-08-31T11:11:34.293Z"
 }
