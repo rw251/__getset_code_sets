@@ -1,6 +1,8 @@
 {
   "includeTerms": [
-    "clopidogrel"
+    "clopidogrel",
+    "grepid",
+    "plavix"
   ],
   "excludeTerms": [],
   "terminology": "Readv2",
@@ -10,6 +12,7 @@
   },
   "name": "Clopidogrel",
   "description": "All drugs containing clopidogrel",
-  "createdOn": "2017-08-31T11:29:39.054Z",
-  "lastUpdated": "2017-08-31T11:29:39.054Z"
+  "message": "Added brand names",
+  "createdOn": "2017-08-31T11:29:39.065Z",
+  "lastUpdated": "2017-08-31T11:29:53.540Z"
 }
