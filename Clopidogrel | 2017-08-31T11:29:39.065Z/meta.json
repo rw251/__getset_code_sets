@@ -4,7 +4,19 @@
     "grepid",
     "plavix"
   ],
-  "excludeTerms": [],
+  "excludeTerms": [
+    "intolerance",
+    "stopped",
+    "adverse reaction",
+    "prophylaxis",
+    "planned stop date",
+    "personal history",
+    "allergy",
+    "declined",
+    "indicated",
+    "not tolerated",
+    "causing adverse effects"
+  ],
   "terminology": "Readv2",
   "createdBy": {
     "name": "Richard Williams",
@@ -12,7 +24,7 @@
   },
   "name": "Clopidogrel",
   "description": "All drugs containing clopidogrel",
-  "message": "Added brand names",
+  "message": "Removed codes such as 'adverse reaction' and 'intolerance'",
   "createdOn": "2017-08-31T11:29:39.065Z",
-  "lastUpdated": "2017-08-31T11:29:53.540Z"
+  "lastUpdated": "2017-08-31T11:30:56.626Z"
 }
