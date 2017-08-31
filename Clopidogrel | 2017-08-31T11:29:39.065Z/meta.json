@@ -14,7 +14,8 @@
     "declined",
     "indicated",
     "not tolerated",
-    "causing adverse effects"
+    "causing adverse effects",
+    "intolerance"
   ],
   "terminology": "Readv2",
   "createdBy": {
@@ -24,5 +25,5 @@
   "name": "Clopidogrel",
   "description": "All drugs containing clopidogrel",
   "createdOn": "2017-08-31T11:29:39.065Z",
-  "lastUpdated": "2017-08-31T14:12:20.465Z"
+  "lastUpdated": "2017-08-31T14:13:01.673Z"
 }
