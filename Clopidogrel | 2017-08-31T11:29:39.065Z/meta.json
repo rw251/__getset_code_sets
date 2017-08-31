@@ -5,7 +5,6 @@
     "plavix"
   ],
   "excludeTerms": [
-    "intolerance",
     "stopped",
     "adverse reaction",
     "prophylaxis",
@@ -24,7 +23,6 @@
   },
   "name": "Clopidogrel",
   "description": "All drugs containing clopidogrel",
-  "message": "Removed codes such as 'adverse reaction' and 'intolerance'",
   "createdOn": "2017-08-31T11:29:39.065Z",
-  "lastUpdated": "2017-08-31T11:30:56.626Z"
+  "lastUpdated": "2017-08-31T14:12:20.465Z"
 }
