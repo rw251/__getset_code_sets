@@ -1,0 +1,27 @@
+{
+  "includeTerms": [
+    "digoxin",
+    "lanoxin",
+    "digamex"
+  ],
+  "excludeTerms": [
+    "test request",
+    "adverse reaction",
+    "level",
+    "monitoring",
+    "prophylaxis",
+    "poisoning",
+    "digoxin specific antibody",
+    "digoxin immune fab",
+    "medigoxin"
+  ],
+  "terminology": "Readv2",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "Digoxin",
+  "description": "All medications containing digoxin, but excluding medigoxin and digoxin specific antibody.",
+  "createdOn": "2017-08-31T12:52:40.968Z",
+  "lastUpdated": "2017-08-31T12:52:40.968Z"
+}
