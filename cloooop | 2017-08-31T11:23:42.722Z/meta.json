@@ -1,6 +1,8 @@
 {
   "includeTerms": [
-    "clopido"
+    "clopido",
+    "grepid",
+    "plavix"
   ],
   "excludeTerms": [],
   "terminology": "Readv2",
@@ -10,5 +12,6 @@
   },
   "name": "cloooop",
   "description": "oooooooo\r\nnew line",
-  "createdOn": "2017-08-31T11:23:42.685Z"
+  "message": "i messe it up",
+  "createdOn": "2017-08-31T11:24:09.765Z"
 }
