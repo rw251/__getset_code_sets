@@ -1,0 +1,14 @@
+{
+  "includeTerms": [
+    "heart failure"
+  ],
+  "excludeTerms": [],
+  "terminology": "Readv2",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "heart failure",
+  "description": "a brief description",
+  "createdOn": "2017-08-31T10:15:21.563Z"
+}
