@@ -1,0 +1,48 @@
+{
+  "includeTerms": [
+    "heart failure",
+    "ventricular failure",
+    "weak heart",
+    "cardiac failure",
+    "asthma - cardiac",
+    "impaired left ventricular function",
+    "pulmonary oedema - acute"
+  ],
+  "excludeTerms": [
+    "monitoring",
+    "review",
+    "quality indicator",
+    "referral",
+    "h/o",
+    "score",
+    "suspected",
+    "clinic",
+    "screen",
+    "education",
+    "discharge",
+    "vasodilator",
+    "cause of death",
+    "previous episodes",
+    "neonatal cardiac failure",
+    "pregnancy",
+    "plan",
+    "resolved",
+    "follow-up",
+    "nurse",
+    "without congestive cardiac failure",
+    "information",
+    "congenital cardiac failure",
+    "therapy",
+    "excluded",
+    "preferred place of care for next exacerbation of heart failure"
+  ],
+  "terminology": "Readv2",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "Heart failure",
+  "description": "Codes indicating that the patient has heart failure",
+  "createdOn": "2017-08-31T13:01:14.422Z",
+  "lastUpdated": "2017-08-31T13:01:14.422Z"
+}
