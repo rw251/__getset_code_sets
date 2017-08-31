@@ -1,0 +1,15 @@
+{
+  "includeTerms": [
+    "clopidogrel"
+  ],
+  "excludeTerms": [],
+  "terminology": "Readv2",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "Clopidogrel",
+  "description": "All drugs containing clopidogrel",
+  "createdOn": "2017-08-31T11:29:39.054Z",
+  "lastUpdated": "2017-08-31T11:29:39.054Z"
+}
