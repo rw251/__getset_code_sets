@@ -1,0 +1,23 @@
+{
+  "includeTerms": [
+    "urea and electrolytes"
+  ],
+  "excludeTerms": [
+    "osmolality",
+    "level",
+    "rate",
+    "blood",
+    "creatinine",
+    "test",
+    "profile"
+  ],
+  "terminology": "Readv2",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "Urea + Electrolytes",
+  "description": "A very conservative U+E code set that just looks for the U+E codes and not the values that area associated with the individual readings.",
+  "createdOn": "2017-09-14T15:14:17.672Z",
+  "lastUpdated": "2017-09-14T15:14:17.672Z"
+}
