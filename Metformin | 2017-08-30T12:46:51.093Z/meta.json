@@ -18,7 +18,8 @@
     "janumet",
     "eucreas",
     "orabet",
-    "competact"
+    "competact",
+    "rubbish"
   ],
   "excludeTerms": [
     "adverse reaction",
@@ -35,5 +36,6 @@
   },
   "name": "Metformin",
   "description": "All drug codes for metformin",
-  "createdOn": "2017-08-30T12:46:51.087Z"
+  "createdOn": "2017-08-30T12:46:51.087Z",
+  "lastUpdated": "2017-09-20T11:47:52.210Z"
 }
