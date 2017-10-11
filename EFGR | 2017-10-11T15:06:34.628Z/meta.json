@@ -1,0 +1,24 @@
+{
+  "includeTerms": [
+    "egfr",
+    "estimated glomerular filtration rate",
+    "gfr"
+  ],
+  "excludeTerms": [
+    "degrade",
+    "test request",
+    "monitoring",
+    "test",
+    "ckd with gfr category",
+    "tmp/gfr"
+  ],
+  "terminology": "Readv2",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "EFGR",
+  "description": "Any test result indicating a glomerular filtration rate was calculated. Includes the actual test result and things like 'egfr level normal/abnormal'.",
+  "createdOn": "2017-10-11T15:06:34.605Z",
+  "lastUpdated": "2017-10-11T15:06:34.605Z"
+}
