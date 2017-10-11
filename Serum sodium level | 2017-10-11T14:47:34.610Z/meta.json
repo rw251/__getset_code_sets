@@ -1,0 +1,24 @@
+{
+  "includeTerms": [
+    "sodium level",
+    "serum sodium",
+    "plasma sodium",
+    "blood sodium"
+  ],
+  "excludeTerms": [
+    "test request",
+    "valproate",
+    "dialysis fluid sodium level",
+    "csf sodium level",
+    "degrade"
+  ],
+  "terminology": "Readv2",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "Serum sodium level",
+  "description": "Any test result indicating a serum sodium level was taken. Includes the actual test result and things like 'sodium level normal/abnormal'.",
+  "createdOn": "2017-10-11T14:47:34.568Z",
+  "lastUpdated": "2017-10-11T14:47:34.568Z"
+}
