@@ -1,0 +1,16 @@
+{
+  "includeTerms": [
+    "no h/o dvt",
+    "no h/o: dvt"
+  ],
+  "excludeTerms": [],
+  "terminology": "Readv2",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "No history of DVT",
+  "description": "Codes that indicate the patient has never had deep vein thrombosis.",
+  "createdOn": "2017-10-11T15:13:39.252Z",
+  "lastUpdated": "2017-10-11T15:13:39.252Z"
+}
