@@ -1,0 +1,35 @@
+{
+  "includeTerms": [
+    "serum urea",
+    "blood urea",
+    "urea level",
+    "plasma urea",
+    "urea - blood",
+    "urea and electrolytes",
+    "osmolality"
+  ],
+  "excludeTerms": [
+    "test request",
+    "degrade",
+    "csf urea level",
+    "dialysis fluid urea level",
+    "creatinine",
+    "renal profile",
+    "albumin",
+    "peritoneal equilibration test",
+    "reminder",
+    "unlinked report",
+    "hyposmolality",
+    "hyperosmolality",
+    "fluid sample osmolality"
+  ],
+  "terminology": "Readv2",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "Serum urea level",
+  "description": "Any test result indicating a serum urea level was taken. Includes the actual test result and things like 'urea level normal/abnormal'. Also includes Urea+Electrolytes, and things like 'osmolality' which are calculated based on the urea level.",
+  "createdOn": "2017-10-11T15:00:15.116Z",
+  "lastUpdated": "2017-10-11T15:00:15.116Z"
+}
