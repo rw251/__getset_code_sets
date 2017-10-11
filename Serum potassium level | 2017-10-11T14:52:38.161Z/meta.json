@@ -1,0 +1,22 @@
+{
+  "includeTerms": [
+    "serum potassium",
+    "potassium level",
+    "blood potassium"
+  ],
+  "excludeTerms": [
+    "test request",
+    "csf potassium level",
+    "sweat potassium level",
+    "dialysis fluid potassium level"
+  ],
+  "terminology": "Readv2",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "Serum potassium level",
+  "description": "Any test result indicating a serum potassium level was taken. Includes the actual test result and things like 'potassium level normal/abnormal'.",
+  "createdOn": "2017-10-11T14:52:38.132Z",
+  "lastUpdated": "2017-10-11T14:52:38.132Z"
+}
