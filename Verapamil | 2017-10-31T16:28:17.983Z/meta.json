@@ -1,0 +1,32 @@
+{
+  "includeTerms": [
+    "verapamil",
+    "verpamil",
+    "vertab",
+    "geangin",
+    "securon",
+    "[univer]",
+    "cordilox",
+    "vera-til",
+    "ranvera",
+    "zolvera",
+    "ethimil",
+    "verapress",
+    "hypaneze",
+    "berkatens",
+    "tarka"
+  ],
+  "excludeTerms": [
+    "adverse reaction",
+    "under care of health visiting service"
+  ],
+  "terminology": "Readv2",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "Verapamil",
+  "description": "All drugs containing verapamil.",
+  "createdOn": "2017-10-31T16:28:17.825Z",
+  "lastUpdated": "2017-10-31T16:28:17.825Z"
+}
