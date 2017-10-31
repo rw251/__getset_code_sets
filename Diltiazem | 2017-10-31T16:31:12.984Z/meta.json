@@ -1,0 +1,39 @@
+{
+  "includeTerms": [
+    "diltiazem",
+    "zemret",
+    "[uard]",
+    "retalzem",
+    "horizem",
+    "disogram",
+    "adizem",
+    "angitil",
+    "bi-carzem",
+    "zildil",
+    "slozem",
+    "dilcardia",
+    "[optil]",
+    "zemtard",
+    "calazem",
+    "viazem",
+    "angiozem",
+    "tildiem",
+    "kentiazem",
+    "calcicard",
+    "metazem",
+    "dilzem",
+    "britiazim"
+  ],
+  "excludeTerms": [
+    "adverse reaction"
+  ],
+  "terminology": "Readv2",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "Diltiazem",
+  "description": "All drugs containing diltiazem",
+  "createdOn": "2017-10-31T16:31:12.969Z",
+  "lastUpdated": "2017-10-31T16:31:12.969Z"
+}
