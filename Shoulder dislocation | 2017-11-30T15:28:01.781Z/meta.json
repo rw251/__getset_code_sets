@@ -1,0 +1,27 @@
+{
+  "includeTerms": [
+    "dislocation of shoulder",
+    "subluxation of shoulder",
+    "subluxation shoulder",
+    "dislocation shoulder",
+    "dislocation scapula",
+    "dislocation of acromioclavicular joint",
+    "subluxation acromio-clavicular joint",
+    "dislocated shoulder",
+    "dislocation, of the shoulder",
+    "dislocation acromio-clavicular joint"
+  ],
+  "excludeTerms": [
+    "birth dislocation of shoulder",
+    "h/o"
+  ],
+  "terminology": "Readv2",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "Shoulder dislocation",
+  "description": "Dislocation or partial dislocation of the shoulder. Including recurrent dislocation but excluding birth dislocation and history of dislocation.",
+  "createdOn": "2017-11-30T15:28:00.868Z",
+  "lastUpdated": "2017-11-30T15:28:00.868Z"
+}
