@@ -1,0 +1,35 @@
+{
+  "includeTerms": [
+    "lithium",
+    "priadel",
+    "litarex",
+    "lithonate",
+    "[phasal]",
+    "li-liquid",
+    "liskonum",
+    "camcolit"
+  ],
+  "excludeTerms": [
+    "test request",
+    "level",
+    "ointment",
+    "monitoring",
+    "lithium therapy record book completed",
+    "stopped",
+    "succinate",
+    "urine",
+    "review",
+    "information",
+    "advice",
+    "nephrotoxicity"
+  ],
+  "terminology": "Readv2",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "Lithium",
+  "description": "Any prescription of oral lithium",
+  "createdOn": "2018-01-17T17:30:45.588Z",
+  "lastUpdated": "2018-01-17T17:30:45.588Z"
+}
