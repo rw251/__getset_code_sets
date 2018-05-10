@@ -1,0 +1,21 @@
+{
+  "includeTerms": [
+    "hysterectomy",
+    "excision of uterus",
+    "hysterocolpectomy"
+  ],
+  "excludeTerms": [
+    "planned",
+    "excision of lesion",
+    "excision of adnexa"
+  ],
+  "terminology": "Readv2",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "Hysterectomy",
+  "description": "Any code describing a hysterectomy, or evidence that the uterus has been removed. Does not include codes that describe the removal of the fallopian tubes or the ovaries.",
+  "createdOn": "2018-05-10T10:25:08.758Z",
+  "lastUpdated": "2018-05-10T10:25:08.758Z"
+}
