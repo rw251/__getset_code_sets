@@ -1,0 +1,50 @@
+{
+  "includeTerms": [
+    "breast cancer",
+    "neoplasm breast",
+    "breast carcinoma"
+  ],
+  "excludeTerms": [
+    "excluding breast",
+    "screen",
+    "benign neoplasm",
+    "fh",
+    "cancer risk",
+    "education about",
+    "discharge from",
+    "suspected",
+    "meets nice clinical guideline cg164",
+    "no history of",
+    "family history of",
+    "malignant melanoma of skin",
+    "other malignant neoplasm of skin",
+    "basal cell carcinoma",
+    "malignant neoplasm of connective and other soft tissue",
+    "malignant neoplasm of bone and articular cartilage",
+    "sarcoma of bone and connective tissue",
+    "carcinoma in situ of cervix uteri",
+    "carcinoma in situ of other and unspecified parts of uterus",
+    "carcinoma in situ of other and unspecified female genital organs",
+    "carcinoma in situ of prostate",
+    "carcinoma in situ of penis",
+    "carcinoma in situ of testis",
+    "carcinoma in situ of other and unspecified male genital organs",
+    "carcinoma in situ of bladder",
+    "cystosarcoma phyllodes",
+    "cervical intraepithelial neoplasia grade iii",
+    "cervical intraepithelial neoplasia",
+    "cin iii - carcinoma in situ of cervix",
+    "carcinoma in situ of body of uterus",
+    "carcinoma in situ of urinary organs nos",
+    "of male breast"
+  ],
+  "terminology": "Readv2",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "Breast cancer",
+  "description": "Any code indicating current or history of malignant breast cancer.",
+  "createdOn": "2018-05-10T10:42:21.261Z",
+  "lastUpdated": "2018-05-10T10:42:21.261Z"
+}
