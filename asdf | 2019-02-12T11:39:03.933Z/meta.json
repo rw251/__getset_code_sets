@@ -1,0 +1,15 @@
+{
+  "includeTerms": [
+    "diabetes"
+  ],
+  "excludeTerms": [],
+  "terminology": "Readv2",
+  "createdOn": "2019-02-12T11:39:03.906Z",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "asdf",
+  "description": "asdf",
+  "lastUpdated": "2019-02-12T11:39:03.906Z"
+}
