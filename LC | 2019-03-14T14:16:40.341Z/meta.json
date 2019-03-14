@@ -1,0 +1,17 @@
+{
+  "includeTerms": [
+    "lung capacity",
+    "vital capacity",
+    "fvc"
+  ],
+  "excludeTerms": [],
+  "terminology": "Readv2",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "LC",
+  "description": "LC",
+  "createdOn": "2019-03-14T14:16:40.299Z",
+  "lastUpdated": "2019-03-14T14:16:40.299Z"
+}
