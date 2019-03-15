@@ -1,0 +1,16 @@
+{
+  "includeTerms": [
+    "hyuprt",
+    "stevens syndrome"
+  ],
+  "excludeTerms": [],
+  "terminology": "Readv2",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "test",
+  "description": "test",
+  "createdOn": "2019-03-15T15:14:42.144Z",
+  "lastUpdated": "2019-03-15T15:14:42.144Z"
+}
