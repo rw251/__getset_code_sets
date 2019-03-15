@@ -1,6 +1,5 @@
 {
   "includeTerms": [
-    "hyuprt",
     "stevens syndrome"
   ],
   "excludeTerms": [],
@@ -9,8 +8,8 @@
     "name": "Richard Williams",
     "email": "1234richardwilliams@gmail.com"
   },
-  "name": "test",
-  "description": "test",
+  "name": "t2",
+  "description": "t2",
   "createdOn": "2019-03-15T15:14:42.144Z",
-  "lastUpdated": "2019-03-15T15:14:42.144Z"
+  "lastUpdated": "2019-03-15T15:16:09.331Z"
 }
