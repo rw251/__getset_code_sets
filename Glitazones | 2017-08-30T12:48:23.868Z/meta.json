@@ -6,7 +6,8 @@
     "[actos]",
     "avandamet",
     "avandia",
-    "romozin"
+    "romozin",
+    "hyere"
   ],
   "excludeTerms": [
     "intolerance",
@@ -20,7 +21,8 @@
     "name": "Richard Williams",
     "email": "1234richardwilliams@gmail.com"
   },
-  "name": "Glitazones",
-  "description": "All glitazone codes",
-  "createdOn": "2017-08-30T12:48:23.857Z"
+  "name": "",
+  "description": "",
+  "createdOn": "2017-08-30T12:48:23.857Z",
+  "lastUpdated": "2019-03-15T15:17:14.707Z"
 }
