@@ -1,6 +1,7 @@
 {
   "includeTerms": [
-    "stevens syndrome"
+    "stevens syndrome",
+    "hhhhhhhh"
   ],
   "excludeTerms": [],
   "terminology": "Readv2",
@@ -8,8 +9,8 @@
     "name": "Richard Williams",
     "email": "1234richardwilliams@gmail.com"
   },
-  "name": "t2",
+  "name": "test",
   "description": "t2",
   "createdOn": "2019-03-15T15:14:42.144Z",
-  "lastUpdated": "2019-03-15T15:16:09.331Z"
+  "lastUpdated": "2019-03-15T15:29:53.478Z"
 }
