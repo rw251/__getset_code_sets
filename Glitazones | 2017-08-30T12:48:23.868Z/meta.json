@@ -6,8 +6,7 @@
     "[actos]",
     "avandamet",
     "avandia",
-    "romozin",
-    "hyere"
+    "romozin"
   ],
   "excludeTerms": [
     "intolerance",
@@ -24,5 +23,5 @@
   "name": "",
   "description": "",
   "createdOn": "2017-08-30T12:48:23.857Z",
-  "lastUpdated": "2019-03-15T15:17:14.707Z"
+  "lastUpdated": "2019-03-15T15:17:59.657Z"
 }
