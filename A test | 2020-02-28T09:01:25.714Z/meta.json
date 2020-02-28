@@ -2,7 +2,9 @@
   "includeTerms": [
     "test"
   ],
-  "excludeTerms": [],
+  "excludeTerms": [
+    "normal"
+  ],
   "terminology": "Readv2",
   "createdBy": {
     "name": "Richard Williams",
@@ -11,5 +13,5 @@
   "name": "A test",
   "description": "Just a test - to be deleted",
   "createdOn": "2020-02-28T09:01:25.678Z",
-  "lastUpdated": "2020-02-28T09:01:25.678Z"
+  "lastUpdated": "2020-02-28T11:14:37.010Z"
 }
