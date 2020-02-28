@@ -1,0 +1,15 @@
+{
+  "includeTerms": [
+    "test"
+  ],
+  "excludeTerms": [],
+  "terminology": "Readv2",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "A test",
+  "description": "Just a test - to be deleted",
+  "createdOn": "2020-02-28T09:01:25.678Z",
+  "lastUpdated": "2020-02-28T09:01:25.678Z"
+}
