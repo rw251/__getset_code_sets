@@ -88,7 +88,8 @@
     "puerperal pyrexia",
     "maternal pyrexia",
     "fh: malignant hyperpyrexia",
-    "malignant hyperpyrexia due to anaesthetic"
+    "malignant hyperpyrexia due to anaesthetic",
+    "level of fever"
   ],
   "terminology": "Readv2",
   "createdBy": {
@@ -98,5 +99,5 @@
   "name": "Fever or high temperature",
   "description": "Any high temperature or fever associated with a cold like illness. E.g. this doesn't include hot flushes, maternal pyrexia or those caused by insect bites.",
   "createdOn": "2020-03-26T08:38:17.177Z",
-  "lastUpdated": "2020-03-26T08:38:17.177Z"
+  "lastUpdated": "2020-03-26T12:14:59.744Z"
 }
