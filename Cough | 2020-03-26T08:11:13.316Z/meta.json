@@ -1,6 +1,7 @@
 {
   "includeTerms": [
-    "cough"
+    "cough",
+    "coughing"
   ],
   "excludeTerms": [
     "liquid",
@@ -24,7 +25,9 @@
     "cough absent",
     "cough on exercise",
     "bovine cough",
-    "no cough"
+    "no cough",
+    "difficulty in coughing up sputum",
+    "sputum - symptom"
   ],
   "terminology": "Readv2",
   "createdBy": {
@@ -34,5 +37,5 @@
   "name": "Cough",
   "description": "Any cough symptom including dry and chesty",
   "createdOn": "2020-03-26T08:11:13.054Z",
-  "lastUpdated": "2020-03-26T08:16:22.736Z"
+  "lastUpdated": "2020-03-26T08:18:45.882Z"
 }
