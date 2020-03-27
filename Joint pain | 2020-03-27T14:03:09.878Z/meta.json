@@ -1,0 +1,25 @@
+{
+  "includeTerms": [
+    "joint pain",
+    "joint ache",
+    "arthralgia",
+    "knee pain",
+    "hip pain",
+    "wrist pain"
+  ],
+  "excludeTerms": [
+    "joint prosthesis",
+    "coxalgia",
+    "irritable hip",
+    "temporomandibular joint-pain-dysfunction syndrome"
+  ],
+  "terminology": "Readv2",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "Joint pain",
+  "description": "Any symptom of joint pain. Excludes coxalgia and irritable hip.",
+  "createdOn": "2020-03-27T14:03:09.769Z",
+  "lastUpdated": "2020-03-27T14:03:09.769Z"
+}
