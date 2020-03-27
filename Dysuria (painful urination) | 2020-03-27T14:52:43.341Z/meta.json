@@ -1,0 +1,19 @@
+{
+  "includeTerms": [
+    "dysuria",
+    "painful urination"
+  ],
+  "excludeTerms": [
+    "psychogenic dysuria",
+    "strangury"
+  ],
+  "terminology": "Readv2",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "Dysuria (painful urination)",
+  "description": "The symptom of painful urination. Does not include psychogenic dysuria.",
+  "createdOn": "2020-03-27T14:52:43.194Z",
+  "lastUpdated": "2020-03-27T14:52:43.194Z"
+}
