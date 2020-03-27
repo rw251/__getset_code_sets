@@ -1,0 +1,20 @@
+{
+  "includeTerms": [
+    "muscle ache",
+    "muscle pain",
+    "myalgia"
+  ],
+  "excludeTerms": [
+    "epidemic cervical myalgia",
+    "myositis"
+  ],
+  "terminology": "Readv2",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "Muscle pain",
+  "description": "Including myalgia but not myositis",
+  "createdOn": "2020-03-27T13:55:58.936Z",
+  "lastUpdated": "2020-03-27T13:55:58.936Z"
+}
