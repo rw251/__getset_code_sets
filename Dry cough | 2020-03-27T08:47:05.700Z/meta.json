@@ -1,0 +1,22 @@
+{
+  "includeTerms": [
+    "barking cough",
+    "cough with fever",
+    "dry cough"
+  ],
+  "excludeTerms": [
+    "linctus",
+    "syrup",
+    "pastilles",
+    "liquid"
+  ],
+  "terminology": "Readv2",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "Dry cough",
+  "description": "Dry cough including cough with fever",
+  "createdOn": "2020-03-27T08:47:05.621Z",
+  "lastUpdated": "2020-03-27T08:47:05.621Z"
+}
