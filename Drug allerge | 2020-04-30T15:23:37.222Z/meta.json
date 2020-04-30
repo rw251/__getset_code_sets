@@ -7,11 +7,20 @@
     "rivaroxaban allergy",
     "ticagrelor allergy",
     "prasugrel allergy",
-    "aliskiren allergy"
+    "aliskiren allergy",
+    "adverse reaction",
+    "allergic drug reaction",
+    "drug hypersensitivity",
+    "drug idiosyncrasy",
+    "adverse effect* in therapeutic use",
+    "yellow card drug react",
+    "adverse effect of pramipexole"
   ],
   "excludeTerms": [
     "h/o",
-    "personal history"
+    "personal history",
+    "adverse food reaction",
+    "scoline apnoea"
   ],
   "terminology": "Readv2",
   "createdBy": {
@@ -21,5 +30,5 @@
   "name": "Drug allerge",
   "description": "Code indicative of a new allergy. So no \"h/o\" or \"personal history\". Searching for \"allergy\" mainly returns food and environmental allergies rather than drug allergies.",
   "createdOn": "2020-04-30T15:23:36.750Z",
-  "lastUpdated": "2020-04-30T15:23:36.750Z"
+  "lastUpdated": "2020-04-30T16:18:00.218Z"
 }
