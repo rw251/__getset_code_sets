@@ -1,0 +1,25 @@
+{
+  "includeTerms": [
+    "allergic reaction to drug",
+    "drug allergy",
+    "anticoagulant allergy",
+    "apixaban allergy",
+    "rivaroxaban allergy",
+    "ticagrelor allergy",
+    "prasugrel allergy",
+    "aliskiren allergy"
+  ],
+  "excludeTerms": [
+    "h/o",
+    "personal history"
+  ],
+  "terminology": "Readv2",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "Drug allerge",
+  "description": "Code indicative of a new allergy. So no \"h/o\" or \"personal history\". Searching for \"allergy\" mainly returns food and environmental allergies rather than drug allergies.",
+  "createdOn": "2020-04-30T15:23:36.750Z",
+  "lastUpdated": "2020-04-30T15:23:36.750Z"
+}
