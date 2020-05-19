@@ -1,0 +1,37 @@
+{
+  "includeTerms": [
+    "cerebral arterial occlusion",
+    "cerebral thrombosis",
+    "brainstem infarction",
+    "cerebral infarction",
+    "infarction of basal ganglia",
+    "wallenberg syndrome",
+    "pure lacunar syndrome",
+    "cerebral embolism",
+    "occlusion and stenosis of other precerebral arteries",
+    "occlusion and stenosis of other cerebral arteries",
+    "cerebrovascular accident due to cerebral artery occlusion",
+    "cerebellar infarction",
+    "cerebral embolus",
+    "lateral medullary syndrome"
+  ],
+  "excludeTerms": [
+    "surveillance",
+    "imaging",
+    "sequelae",
+    "in the puerperium",
+    "obstetric cerebral venous thrombosis",
+    "in pregnancy",
+    "not resulting in cerebral infarction",
+    "cerebral vein thrombosis"
+  ],
+  "terminology": "Readv2",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "Non-haemorrhagic stroke",
+  "description": "Any diagnosis of a non-haemorrhagic stroke. Matches the QOF business rules.",
+  "createdOn": "2020-05-19T13:26:55.570Z",
+  "lastUpdated": "2020-05-19T13:26:55.570Z"
+}
