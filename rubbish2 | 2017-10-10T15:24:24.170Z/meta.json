@@ -1,6 +1,7 @@
 {
   "includeTerms": [
-    "metformin"
+    "metformin",
+    "another code"
   ],
   "excludeTerms": [
     "adverse reaction"
@@ -11,7 +12,7 @@
     "email": "1234richardwilliams@gmail.com"
   },
   "name": "rubbish2",
-  "description": "",
+  "description": "Still rubbish",
   "createdOn": "2017-10-10T15:24:24.164Z",
-  "lastUpdated": "2017-10-10T15:24:24.164Z"
+  "lastUpdated": "2020-05-26T10:16:09.162Z"
 }
