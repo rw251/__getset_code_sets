@@ -1,7 +1,8 @@
 {
   "includeTerms": [
     "maturity onset diabetes",
-    "diabetes"
+    "diabetes",
+    "diabetes insipidus, diabetes mellitus, optic atrophy and deafness"
   ],
   "excludeTerms": [
     "family history",
@@ -65,14 +66,14 @@
     "diabetes key contact",
     "diabetic amyotrophy",
     "provision of",
-    "diabetes insipidus",
     "neuropathy",
     "poor control",
     "niddm",
     "iddm",
     "nephropathy",
     "haemochromatosis",
-    "renal glycosuria"
+    "renal glycosuria",
+    "diabetes insipidus"
   ],
   "terminology": "Readv2",
   "createdBy": {
@@ -81,6 +82,6 @@
   },
   "name": "Non specific diabetes",
   "description": "Any form of diabetes where the coding is not clear as to type 1 or type 2. Also includes variants of diabetes that are neither type 1 or 2 e.g. maturity onset diabetes.",
-  "createdOn": "2020-05-29T11:18:51.459Z",
-  "lastUpdated": "2020-05-29T11:18:51.459Z"
+  "createdOn": "2020-05-29T11:18:52.450Z",
+  "lastUpdated": "2020-05-29T11:20:38.704Z"
 }
