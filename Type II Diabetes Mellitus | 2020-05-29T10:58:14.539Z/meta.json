@@ -1,0 +1,28 @@
+{
+  "includeTerms": [
+    "type ii diabetes",
+    "type 2 diabetes",
+    "non insulin dependent diabetes",
+    "diabetes mellitus adult onset"
+  ],
+  "excludeTerms": [
+    "family history",
+    "in remission",
+    "in pregnancy",
+    "review",
+    "reaven's syndrome",
+    "metabolic syndrome x",
+    "pre-existing diabetes mellitus",
+    "maternally inherited diabetes mellitus",
+    "maturity onset diabetes"
+  ],
+  "terminology": "Readv2",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "Type II Diabetes Mellitus",
+  "description": "Any diagnosis of T2DM. A super set of the QOF business rule. Includes \"adult onset\" diabetes, but DOES NOT include \"maturity onset\" diabetes.",
+  "createdOn": "2020-05-29T10:58:14.127Z",
+  "lastUpdated": "2020-05-29T10:58:14.127Z"
+}
