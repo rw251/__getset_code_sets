@@ -1,0 +1,15 @@
+{
+  "includeTerms": [
+    "aspirin 75mg"
+  ],
+  "excludeTerms": [],
+  "terminology": "Readv2",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "Aspirin 75mg",
+  "description": "Any code for Aspirin 75mg as an indication of a person with recently diagnosed CVD.",
+  "createdOn": "2020-06-10T14:37:13.512Z",
+  "lastUpdated": "2020-06-10T14:37:13.512Z"
+}
