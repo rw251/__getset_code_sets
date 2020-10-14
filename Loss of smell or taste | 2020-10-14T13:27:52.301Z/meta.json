@@ -1,0 +1,33 @@
+{
+  "includeTerms": [
+    "loss of smell",
+    "loss of taste",
+    "taste loss",
+    "taste disorder",
+    "taste problem",
+    "taste problems",
+    "taste disturbances",
+    "smell abnormal",
+    "smell problem",
+    "smell disorder",
+    "smell problems",
+    "parosmia",
+    "dysgeusia",
+    "parageusia",
+    "hemiageusia",
+    "anosmia"
+  ],
+  "excludeTerms": [
+    "nerve injury"
+  ],
+  "terminology": "Readv2",
+  "version": "v20160401",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "Loss of smell or taste",
+  "description": "Trying to match all codes that show a loss or change to sense of smell or taste for a COVID 19 symptom project.",
+  "createdOn": "2020-10-14T13:27:52.172Z",
+  "lastUpdated": "2020-10-14T13:27:52.172Z"
+}
