@@ -1,0 +1,39 @@
+{
+  "includeTerms": [
+    "telephone"
+  ],
+  "excludeTerms": [
+    "telephone number",
+    "supervis",
+    "declined to receive test result",
+    "telephone invite",
+    "telephone invitation",
+    "telephone for test result",
+    "telephone no. unknown",
+    "declined consent for communication by telephone",
+    "consent given",
+    "unsuccessful attempt to contact",
+    "patient telephone no",
+    "telephone exchange manager",
+    "radio telephone operator",
+    "telephone fitter",
+    "provision of telephone",
+    "does not have mobile telephone",
+    "appointment made by telephone",
+    "telephone interpreting service used",
+    "patient asked to make telephone consultation appointment",
+    "choice and booking telephone reminder",
+    "public telephone only",
+    "telephone in house"
+  ],
+  "terminology": "Readv2",
+  "version": "v20160401",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "Telephone encounter",
+  "description": "Codes indicative of a telephone consultation",
+  "createdOn": "2020-11-18T15:37:00.297Z",
+  "lastUpdated": "2020-11-18T15:37:00.297Z"
+}
