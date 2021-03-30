@@ -1,0 +1,21 @@
+{
+  "includeTerms": [
+    "hba1c",
+    "haemoglobin a1c"
+  ],
+  "excludeTerms": [
+    "information about",
+    "target",
+    "measurement not done"
+  ],
+  "terminology": "SNOMED CT",
+  "version": "uk_sct2cl_29.3.0_20200610000001",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "HbA1c",
+  "description": "Any code indicative that a HbA1c measurement has been taken.",
+  "createdOn": "2021-03-30T10:11:01.896Z",
+  "lastUpdated": "2021-03-30T10:11:01.896Z"
+}
