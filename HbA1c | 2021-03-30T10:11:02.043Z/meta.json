@@ -8,14 +8,14 @@
     "target",
     "measurement not done"
   ],
-  "terminology": "SNOMED CT",
-  "version": "uk_sct2cl_29.3.0_20200610000001",
+  "terminology": "Readv2",
+  "version": "v20160401",
   "createdBy": {
     "name": "Richard Williams",
     "email": "1234richardwilliams@gmail.com"
   },
   "name": "HbA1c",
   "description": "Any code indicative that a HbA1c measurement has been taken.",
-  "createdOn": "2021-03-30T10:11:01.896Z",
-  "lastUpdated": "2021-03-30T10:11:01.896Z"
+  "createdOn": "2021-03-30T10:11:02.043Z",
+  "lastUpdated": "2021-03-30T10:11:31.750Z"
 }
