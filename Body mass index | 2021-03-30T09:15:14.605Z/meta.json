@@ -1,0 +1,26 @@
+{
+  "includeTerms": [
+    "body mass index",
+    "bmi",
+    "quetelet index"
+  ],
+  "excludeTerms": [
+    "fracture probability score",
+    "body mass index analyzer",
+    "ponderal index",
+    "target bmi",
+    "dyspnoea and exercise capacity index",
+    "framingham cardiovascular disease 10 year risk",
+    "percentage median bmi"
+  ],
+  "terminology": "SNOMED CT",
+  "version": "uk_sct2cl_29.3.0_20200610000001",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "Body mass index",
+  "description": "Any code indicating that a BMI has been recorded.",
+  "createdOn": "2021-03-30T09:15:14.535Z",
+  "lastUpdated": "2021-03-30T09:15:14.535Z"
+}
