@@ -1,7 +1,11 @@
 {
   "includeTerms": [
     "hba1c",
-    "haemoglobin a1c"
+    "haemoglobin a1c",
+    "hb a1c",
+    "glycated haemoglobin",
+    "glycosylated hb",
+    "hba1"
   ],
   "excludeTerms": [
     "information about",
@@ -17,5 +21,5 @@
   "name": "HbA1c",
   "description": "Any code indicative that a HbA1c measurement has been taken.",
   "createdOn": "2021-03-30T10:11:02.043Z",
-  "lastUpdated": "2021-03-30T10:11:31.750Z"
+  "lastUpdated": "2021-03-30T10:47:47.741Z"
 }
