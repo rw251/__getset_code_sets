@@ -1,0 +1,42 @@
+{
+  "includeTerms": [
+    "prednisolone",
+    "pevanti",
+    "dilacort",
+    "sintisone",
+    "prednesol",
+    "precortisyl",
+    "deltastab",
+    "deltalone",
+    "deltacortril",
+    "delta-phoricol"
+  ],
+  "excludeTerms": [
+    "adverse reaction",
+    "allergy",
+    "therapy",
+    "long-term current use of",
+    "retinopathy",
+    "measurement",
+    "toxicity screening",
+    "rectal",
+    "enema",
+    "aerosol",
+    "suppository",
+    "eye",
+    "injection",
+    "ear drops",
+    "level",
+    "ear"
+  ],
+  "terminology": "Readv2",
+  "version": "v20160401",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "Prednisolone",
+  "description": "Any Rx of prednisolone",
+  "createdOn": "2021-03-30T15:59:08.853Z",
+  "lastUpdated": "2021-03-30T15:59:08.853Z"
+}
