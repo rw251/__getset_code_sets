@@ -1,0 +1,22 @@
+{
+  "includeTerms": [
+    "sulfasalazine",
+    "sulphasalazine",
+    "salazopyrin",
+    "sulazine",
+    "ucine"
+  ],
+  "excludeTerms": [
+    "adverse reaction"
+  ],
+  "terminology": "SNOMED CT",
+  "version": "uk_sct2cl_29.3.0_20200610000001",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "Sulfasalazines",
+  "description": "All sulfasalazine medications",
+  "createdOn": "2021-03-30T14:58:35.644Z",
+  "lastUpdated": "2021-03-30T14:58:35.644Z"
+}
