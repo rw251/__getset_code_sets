@@ -1,0 +1,49 @@
+{
+  "includeTerms": [
+    "smoker",
+    "tobacco consumption",
+    "smoking status",
+    "smoking",
+    "total time smoked",
+    "tobacco chew*",
+    "cigarette pack",
+    "cigar consumption",
+    "cigarette consumption",
+    "rolls own cigarettes",
+    "never smoked",
+    "tobacco cons"
+  ],
+  "excludeTerms": [
+    "annual review",
+    "in the family",
+    "exacerbation frequency index",
+    "monitor",
+    "invitation",
+    "consent",
+    "admin",
+    "clinic",
+    "referral",
+    "advice",
+    "assessment",
+    "declined",
+    "therapy",
+    "exception reporting",
+    "quality indicator",
+    "health ed",
+    "cessation",
+    "face to face follow-up",
+    "service opportunity signposted",
+    "review not indicated",
+    "exposed to tobacco smoke"
+  ],
+  "terminology": "Readv2",
+  "version": "v20160401",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "Smoking status",
+  "description": "Any code indicative that a smoking status has been recorded.",
+  "createdOn": "2021-03-30T09:26:10.692Z",
+  "lastUpdated": "2021-03-30T09:26:10.692Z"
+}
