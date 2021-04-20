@@ -1,0 +1,47 @@
+{
+  "includeTerms": [
+    "paracetamol",
+    "co-codamol",
+    "codeine",
+    "morphine",
+    "sevredol",
+    "nurofen",
+    "zomorph",
+    "morcap",
+    "mxl",
+    "ibucalm",
+    "anadin",
+    "rhotard",
+    "orbifen",
+    "*profen",
+    "diamorphine"
+  ],
+  "excludeTerms": [
+    "level",
+    "adverse reaction",
+    "poisoning",
+    "overdose",
+    "urine",
+    "screen",
+    "advice",
+    "test",
+    "allergy",
+    "not indicated",
+    "declined",
+    "not tolerated",
+    "refused",
+    "contra-indicated",
+    "at increased risk",
+    "dependence"
+  ],
+  "terminology": "Readv2",
+  "version": "v20160401",
+  "createdBy": {
+    "name": "Richard Williams",
+    "email": "1234richardwilliams@gmail.com"
+  },
+  "name": "Analgesics - work in progress",
+  "description": "",
+  "createdOn": "2021-04-20T13:33:44.260Z",
+  "lastUpdated": "2021-04-20T13:33:44.260Z"
+}
